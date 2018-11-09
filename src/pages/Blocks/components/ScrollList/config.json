@@ -1,0 +1,5 @@
+{
+	"blocks" : [
+		"blocknumber", "chainname", "number_of_tx",  "blockhash", "prehash","transactions"
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "nodes": [
+        {
+            "status": "RUNNING",
+            "server_hostname": "127.0.0.1:47768"
+        }
+    ]
+}

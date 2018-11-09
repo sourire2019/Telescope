@@ -1,0 +1,16 @@
+{
+    "status": 200,
+    "row": {
+        "txhash": "0x8e1adeaad8927c1e5212c041abec70af92cf4a711d21dd77cc0772210ea3074a",
+        "validation_code": null,
+        "payload_proposal_hash": null,
+        "creator_msp_id": null,
+        "endorser_msp_id": null,
+        "contractname": "",
+        "type": "0",
+        "createdt": "2018-10-16T22:59:23.000Z",
+        "read_set": {},
+        "write_set": {},
+        "channelname": "justitia-chan1"
+    }
+}

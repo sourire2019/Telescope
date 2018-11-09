@@ -1,0 +1,14 @@
+{
+    "status": 200,
+    "channels": [
+        {
+            "id": 65,
+            "channelname": "justitia-chan1",
+            "blocks": 40,
+            "genesis_block_hash": "justitia-chan1",
+            "transactions": 0,
+            "createdat": "2018-10-17T06:10:09.000Z",
+            "channel_hash": "justitia-chan1"
+        }
+    ]
+}

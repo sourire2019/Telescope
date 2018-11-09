@@ -1,0 +1,17 @@
+{
+	"status": 200,
+    "nodes": [
+        {
+            "name": "justitia-chan1",
+            "requests": "127.0.0.1:47768",
+            "server_hostname": "justitia-node1",
+            "genesis_block_hash": "justitia-chan1"
+        },
+        {
+            "name": "justitia-chan2",
+            "requests": "127.0.0.1:47768",
+            "server_hostname": "justitia-node2",
+            "genesis_block_hash": "justitia-chan1"
+        }
+    ]
+}
