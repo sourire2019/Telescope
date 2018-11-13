@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import RealTimeTradeChart from './components/RealTimeTradeChart';
 import LiteTable from './components/LiteTable';
+import ProductInfo from './components/ProductInfo';
 
 export default class Nodes extends Component {
   static displayName = 'Nodes';
@@ -14,6 +15,7 @@ export default class Nodes extends Component {
     return (
       <div className="nodes-page">
         <RealTimeTradeChart />
+        <ProductInfo />
         <LiteTable />
       </div>
     );

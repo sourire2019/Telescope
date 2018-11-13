@@ -1,5 +1,0 @@
-{
-	"transactions" : [
-		"chainname", "txid", "type", "contract" , "txhash", "block" ,"from", "to", "timestamp"
-	]
-}

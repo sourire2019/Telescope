@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import InfiniteScrollCellMeasurer from './components/InfiniteScrollCellMeasurer';
+import EnhanceTable from './components/EnhanceTable';
 
-export default class Transactions extends Component {
-  static displayName = 'Transactions';
+export default class Page17 extends Component {
+  static displayName = 'Page17';
 
   constructor(props) {
     super(props);
@@ -11,8 +11,8 @@ export default class Transactions extends Component {
 
   render() {
     return (
-      <div className="transactions-page">
-        <InfiniteScrollCellMeasurer />
+      <div className="page17-page">
+        <EnhanceTable />
       </div>
     );
   }

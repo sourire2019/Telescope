@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ScrollList from './components/ScrollList';
+import EnhanceTable from './components/EnhanceTable';
 
 export default class Blocks extends Component {
   static displayName = 'Blocks';
@@ -12,7 +12,7 @@ export default class Blocks extends Component {
   render() {
     return (
       <div className="blocks-page">
-        <ScrollList />
+        <EnhanceTable />
       </div>
     );
   }

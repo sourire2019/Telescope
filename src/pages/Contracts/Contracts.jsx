@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import MemberList from './components/MemberList';
+import EnhanceTable from './components/EnhanceTable';
 
 export default class Contracts extends Component {
   static displayName = 'Contracts';
@@ -12,7 +12,7 @@ export default class Contracts extends Component {
   render() {
     return (
       <div className="contracts-page">
-        <MemberList />
+        <EnhanceTable />
       </div>
     );
   }

@@ -4,7 +4,7 @@
 
 const headerMenuConfig = [
   {
-    id : "language",
+    id: 'language',
     external: true,
     icon: 'fa fa-language fa-lg mt-4',
   },
@@ -17,11 +17,6 @@ const headerMenuConfig = [
 ];
 
 const asideMenuConfig = [
-  {
-    name: 'Nav17',
-    path: '/page17',
-    icon: 'icon-home',
-  },
   {
     name: 'NODES',
     path: '/nodes',

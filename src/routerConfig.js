@@ -7,7 +7,6 @@ import { asideMenuConfig } from './menuConfig';
 
 import BasicLayout from './layouts/BasicLayout';
 
-import Page17 from './pages/Page17';
 import Nodes from './pages/Nodes';
 import Blocks from './pages/Blocks';
 import Contracts from './pages/Contracts';
@@ -15,10 +14,6 @@ import Chains from './pages/Chains';
 import Transactions from './pages/Transactions';
 
 const routerConfig = [
-  {
-    path: '/page17',
-    component: Page17,
-  },
   {
     path: '/nodes',
     component: Nodes,
